@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Lana_API_Assignment2" />
+        <module name="HebahAbuZakham" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Lana_API_Assignment2" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
